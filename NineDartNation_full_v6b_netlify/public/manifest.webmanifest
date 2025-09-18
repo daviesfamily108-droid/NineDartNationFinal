@@ -1,0 +1,13 @@
+{
+  "name": "Nine Dart Nation",
+  "short_name": "NDN",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ]
+}
