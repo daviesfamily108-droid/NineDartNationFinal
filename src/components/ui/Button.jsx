@@ -1,0 +1,1 @@
+export default function Button({children, ...p}){return <button className={'btn '+(p.className||'')} {...p}>{children}</button>}

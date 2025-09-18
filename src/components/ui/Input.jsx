@@ -1,0 +1,1 @@
+export default function Input(p){return <input {...p} style={{...p.style,background:'#0f2133',color:'white',border:'1px solid #2b415b',borderRadius:10,padding:'10px 12px'}}/>}
