@@ -1,1 +1,0 @@
-export default function Terms(){ return <div className='card'>Terms of Service.</div> }

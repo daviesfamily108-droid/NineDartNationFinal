@@ -1,1 +1,0 @@
-export default function MatchHistory(){ return <div className='card'>Match history page.</div> }

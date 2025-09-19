@@ -1,1 +1,0 @@
-export default function AroundtheClock(){ return <div className='card'>Around the Clock rules & board will render here.</div>}

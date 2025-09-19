@@ -1,1 +1,0 @@
-export default function Billing(){ return <div className='card'>Billing / Subscribe (Stripe stub).</div> }
