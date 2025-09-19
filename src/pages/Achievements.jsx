@@ -1,0 +1,1 @@
+export default function Achievements(){ return <div className='card'>Achievements page.</div> }

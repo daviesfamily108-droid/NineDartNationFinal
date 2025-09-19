@@ -1,0 +1,1 @@
+export default function Killer(){ return <div className='card'>Killer rules & board will render here.</div>}

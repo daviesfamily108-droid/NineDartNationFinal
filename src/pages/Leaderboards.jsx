@@ -1,0 +1,1 @@
+export default function Leaderboards(){ return <div className='card'>Leaderboards coming soon.</div> }

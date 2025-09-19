@@ -1,0 +1,1 @@
+export default function Shanghai(){ return <div className='card'>Shanghai rules & board will render here.</div>}

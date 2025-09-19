@@ -1,0 +1,1 @@
+export default function Cricket(){ return <div className='card'>Cricket rules & board will render here.</div>}
