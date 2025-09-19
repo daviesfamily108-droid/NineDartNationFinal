@@ -1,0 +1,1 @@
+export default function X01(){ return <div className="card">X01 board. Coming soon.</div> }

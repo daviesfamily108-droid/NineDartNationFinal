@@ -1,0 +1,1 @@
+export default function Killer(){ return <div className="card">Killer (single round). Coming soon.</div> }

@@ -1,0 +1,1 @@
+export default function Shanghai(){ return <div className="card">Shanghai (single round). Coming soon.</div> }
